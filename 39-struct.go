@@ -29,5 +29,4 @@ func main() {
 
 	customer3 := Customer{"Jack", "Jalan Buntu", 25}
 	fmt.Println(customer3)
-
 }
